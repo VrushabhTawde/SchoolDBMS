@@ -1,0 +1,28 @@
+*{
+          margin: 0px;
+          padding: 0px;
+          box-sizing: border-box;
+          
+      font-family: 'Roboto', sans-serif;
+}
+.container h3 {
+        
+    margin-top: auto;
+        font-size: 43px;
+        color:orange;
+        margin-inline-start: 68px;
+
+}
+.container h2{
+    font-size: 40px;
+        color: rgb(51, 40, 218);
+        margin-inline-start: 68px;
+
+}
+.ad{
+    margin-inline-start: 229px;
+    width: 99px;
+
+}
+
+
